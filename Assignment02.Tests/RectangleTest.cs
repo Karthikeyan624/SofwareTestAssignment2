@@ -5,6 +5,7 @@ using NUnit.Framework;
 
 namespace Assignment02.Tests
 {
+    //Below method to validate test data with program source code
     [TestFixture]
     public class RectangleTest
     {
