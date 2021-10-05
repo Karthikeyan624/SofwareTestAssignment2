@@ -10,6 +10,7 @@ namespace Assignment02.Tests
     public class RectangleTest
     {
         Rectangle rect = new Rectangle();
+        // Adding test data's
         [Test]
         public void GettingLength1()
         {
