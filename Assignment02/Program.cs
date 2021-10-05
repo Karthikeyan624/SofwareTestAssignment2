@@ -114,7 +114,7 @@ namespace Assignment02
             }
 
             selection = ValidateMenuSelection();
-
+            // Below switch helps user in performing particular function
             while (selection != 8)
             {
                 int result;
